@@ -3,6 +3,8 @@ QBShared = QBShared or {}
 -- HARGA MOBIL >= 4x lipat dari harga disnaker
 -- HARGA MOTOR >= 3x lipat dari harga disnaker
 
+-- TEST GITHUB JOHN~
+
 QBShared.Vehicles = {
     -- Compacts
     ['asbo'] = { -- This has to match the spawn code of the vehicle
