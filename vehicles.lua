@@ -4,6 +4,7 @@ QBShared = QBShared or {}
 -- HARGA MOTOR >= 3x lipat dari harga disnaker
 
 -- TEST GITHUB JOHN~
+-- TEST BRANCH JOHN+
 
 QBShared.Vehicles = {
     -- Compacts
