@@ -172,8 +172,8 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Coupes',
         ['hash'] = `kanjosj`,
         ['shop'] = 'pdm',
-        -- ['maxweight'] = (32),
-        -- ['slots'] = (32),
+        ['maxweight'] = (100000),
+        ['slots'] = (32),
     },
     ['cogcabrio'] = {
         ['name'] = 'Cognoscenti Cabrio',
@@ -366,8 +366,8 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Cycles',
         ['hash'] = `bmx`,
         ['shop'] = 'pdm',
-        ['maxweight'] = (32),
-        ['slots'] = (32),
+        ['maxweight'] = (0),
+        ['slots'] = (0),
     },
     ['cruiser'] = {
         ['name'] = 'Cruiser',
@@ -378,8 +378,8 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Cycles',
         ['hash'] = `cruiser`,
         ['shop'] = 'pdm',
-        ['maxweight'] = (32),
-        ['slots'] = (32),
+        ['maxweight'] = (0),
+        ['slots'] = (0),
     },
     ['fixter'] = {
         ['name'] = 'Fixter',
@@ -390,8 +390,8 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Cycles',
         ['hash'] = `fixter`,
         ['shop'] = 'pdm',
-        ['maxweight'] = (32),
-        ['slots'] = (32),
+        ['maxweight'] = (0),
+        ['slots'] = (0),
     },
     ['scorcher'] = {
         ['name'] = 'Scorcher',
@@ -402,8 +402,8 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Cycles',
         ['hash'] = `scorcher`,
         ['shop'] = 'pdm',
-        ['maxweight'] = (32),
-        ['slots'] = (32),
+        ['maxweight'] = (0),
+        ['slots'] = (0),
     },
     ['tribike'] = {
         ['name'] = 'Whippet Race Bike',
@@ -414,8 +414,8 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Cycles',
         ['hash'] = `tribike`,
         ['shop'] = 'pdm',
-        ['maxweight'] = (32),
-        ['slots'] = (32),
+        ['maxweight'] = (0),
+        ['slots'] = (0),
     },
     ['tribike2'] = {
         ['name'] = 'Endurex Race Bike',
@@ -426,8 +426,8 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Cycles',
         ['hash'] = `tribike2`,
         ['shop'] = 'pdm',
-        ['maxweight'] = (32),
-        ['slots'] = (32),
+        ['maxweight'] = (0),
+        ['slots'] = (0),
     },
     ['tribike3'] = {
         ['name'] = 'Tri-Cycles Race Bike',
@@ -438,8 +438,8 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Cycles',
         ['hash'] = `tribike3`,
         ['shop'] = 'pdm',
-        ['maxweight'] = (32),
-        ['slots'] = (32),
+        ['maxweight'] = (0),
+        ['slots'] = (0),
     },
 
     --- Motorcycles
