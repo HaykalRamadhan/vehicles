@@ -1030,7 +1030,7 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Muscle',
         ['hash'] = `blade`,
         ['shop'] = 'pdm',
-        ['maxweight'] = (100000),
+        ['maxweight'] = (120000),
         ['slots'] = (32),
     },
     ['buccaneer'] = {
@@ -1042,7 +1042,7 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Muscle',
         ['hash'] = `buccaneer`,
         ['shop'] = 'pdm',
-        ['maxweight'] = (100000),
+        ['maxweight'] = (120000),
         ['slots'] = (32),
     },
     ['buccaneer2'] = {
@@ -1054,7 +1054,7 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Muscle',
         ['hash'] = `buccaneer2`,
         ['shop'] = 'pdm',
-        ['maxweight'] = (100000),
+        ['maxweight'] = (120000),
         ['slots'] = (32),
     },
     ['chino'] = {
@@ -1066,7 +1066,7 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Muscle',
         ['hash'] = `chino`,
         ['shop'] = 'pdm',
-        ['maxweight'] = (100000),
+        ['maxweight'] = (120000),
         ['slots'] = (32),
     },
     ['chino2'] = {
@@ -1078,7 +1078,7 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Muscle',
         ['hash'] = `chino2`,
         ['shop'] = 'pdm',
-        ['maxweight'] = (100000),
+        ['maxweight'] = (120000),
         ['slots'] = (32),
     },
     ['clique'] = {                            --DLC
@@ -1090,7 +1090,7 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Muscle',
         ['hash'] = `clique`,
         ['shop'] = 'pdm',
-        ['maxweight'] = (100000),
+        ['maxweight'] = (120000),
         ['slots'] = (32),
     },
     ['coquette3'] = {
@@ -1102,7 +1102,7 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Muscle',
         ['hash'] = `coquette3`,
         ['shop'] = 'pdm',
-        ['maxweight'] = (100000),
+        ['maxweight'] = (120000),
         ['slots'] = (32),
     },
     ['deviant'] = {                            --DLC
@@ -1114,7 +1114,7 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Muscle',
         ['hash'] = `deviant`,
         ['shop'] = 'pdm',
-        ['maxweight'] = (100000),
+        ['maxweight'] = (120000),
         ['slots'] = (32),
     },
     ['dominator'] = {
@@ -1126,7 +1126,7 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Muscle',
         ['hash'] = `dominator`,
         ['shop'] = 'pdm',
-        ['maxweight'] = (100000),
+        ['maxweight'] = (125000),
         ['slots'] = (32),
     },
     ['dominator3'] = {
@@ -1138,7 +1138,7 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Muscle',
         ['hash'] = `dominator3`,
         ['shop'] = 'pdm',
-        ['maxweight'] = (100000),
+        ['maxweight'] = (125000),
         ['slots'] = (32),
     },
     ['dominator7'] = {                            --DLC +set sv_enforceGameBuild 2372
@@ -1150,7 +1150,7 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Muscle',
         ['hash'] = `dominator7`,
         ['shop'] = 'pdm',
-        ['maxweight'] = (100000),
+        ['maxweight'] = (110000),
         ['slots'] = (32),
     },
     ['dominator8'] = {                            --DLC +set sv_enforceGameBuild 2372
@@ -1162,7 +1162,7 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Muscle',
         ['hash'] = `dominator8`,
         ['shop'] = 'pdm',
-        ['maxweight'] = (100000),
+        ['maxweight'] = (110000),
         ['slots'] = (32),
     },
     ['dukes'] = {
@@ -1234,7 +1234,7 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Muscle',
         ['hash'] = `gauntlet`,
         ['shop'] = 'pdm',
-        ['maxweight'] = (100000),
+        ['maxweight'] = (110000),
         ['slots'] = (32),
     },
     ['gauntlet3'] = {                            --DLC
@@ -1246,7 +1246,7 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Muscle',
         ['hash'] = `gauntlet3`,
         ['shop'] = 'pdm',
-        ['maxweight'] = (100000),
+        ['maxweight'] = (110000),
         ['slots'] = (32),
     },
     ['gauntlet4'] = {                            --DLC
@@ -1342,7 +1342,7 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Muscle',
         ['hash'] = `nightshade`,
         ['shop'] = 'pdm',
-        ['maxweight'] = (100000),
+        ['maxweight'] = (95000),
         ['slots'] = (32),
     },
     ['phoenix'] = {
@@ -1354,7 +1354,7 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Muscle',
         ['hash'] = `phoenix`,
         ['shop'] = 'pdm',
-        ['maxweight'] = (100000),
+        ['maxweight'] = (98000),
         ['slots'] = (32),
     },
     ['picador'] = {
@@ -1366,7 +1366,7 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Muscle',
         ['hash'] = `picador`,
         ['shop'] = 'pdm',
-        ['maxweight'] = (100000),
+        ['maxweight'] = (175000),
         ['slots'] = (32),
     },
     ['ratloader2'] = {
@@ -1378,7 +1378,7 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Muscle',
         ['hash'] = `ratloader2`,
         ['shop'] = 'pdm',
-        ['maxweight'] = (100000),
+        ['maxweight'] = (130000),
         ['slots'] = (32),
     },
     ['ruiner'] = {
@@ -1390,7 +1390,7 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Muscle',
         ['hash'] = `ruiner`,
         ['shop'] = 'pdm',
-        ['maxweight'] = (100000),
+        ['maxweight'] = (110000),
         ['slots'] = (32),
     },
     ['sabregt'] = {
@@ -1414,7 +1414,7 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Muscle',
         ['hash'] = `slamvan2`,
         ['shop'] = 'pdm',
-        ['maxweight'] = (100000),
+        ['maxweight'] = (100000), -- NEED CHANGE!
         ['slots'] = (32),
     },
     ['voodoo'] = {
@@ -1438,7 +1438,7 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Muscle',
         ['hash'] = `yosemite2`,
         ['shop'] = 'pdm',
-        ['maxweight'] = (100000),
+        ['maxweight'] = (130000),
         ['slots'] = (32),
     },
     ['yosemite3'] = {
@@ -1450,7 +1450,7 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Off Road',
         ['hash'] = `yosemite3`,
         ['shop'] = 'pdm',
-        ['maxweight'] = (100000),
+        ['maxweight'] = (130000),
     ['slots'] = (32),
     },
     ['buffalo4'] = {          --DLC +set sv_enforceGameBuild 2545
