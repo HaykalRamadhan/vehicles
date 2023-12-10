@@ -2,6 +2,7 @@ QBShared = QBShared or {}
 
 -- HARGA MOBIL >= 4x lipat dari harga disnaker
 -- HARGA MOTOR >= 3x lipat dari harga disnaker
+--
 
 QBShared.Vehicles = {
     -- Compacts
