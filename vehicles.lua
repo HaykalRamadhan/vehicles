@@ -1476,8 +1476,8 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Off Road',
         ['hash'] = `bfinjection`,
         ['shop'] = 'pdm',
-        ['maxweight'] = (32),
-        ['slots'] = (32),
+        -- ['maxweight'] = (32),
+        -- ['slots'] = (32),
     },
     ['bifta'] = {
         ['name'] = 'Bifta',
