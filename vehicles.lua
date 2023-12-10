@@ -1451,7 +1451,7 @@ QBShared.Vehicles = {
         ['hash'] = `yosemite3`,
         ['shop'] = 'pdm',
         ['maxweight'] = (130000),
-    ['slots'] = (32),
+        ['slots'] = (32),
     },
     ['buffalo4'] = {          --DLC +set sv_enforceGameBuild 2545
         ['name'] = 'Buffalo STX',
