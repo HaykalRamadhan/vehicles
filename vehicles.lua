@@ -3743,8 +3743,8 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Off Road',
         ['hash'] = `sadler`,
         ['shop'] = 'pdm',
-        -- ['maxweight'] = (32),
-        -- ['slots'] = (32),
+        ['maxweight'] = (32),
+        ['slots'] = (32),
     },
     -- ['slamtruck'] = {
     --     ['name'] = 'Slam Truck',
@@ -3767,8 +3767,8 @@ QBShared.Vehicles = {
         ['categoryLabel'] = 'Sedans',
         ['hash'] = `warrener2`,
         ['shop'] = 'pdm',
-        -- ['maxweight'] = (32),
-        -- ['slots'] = (32),
+        ['maxweight'] = (32),
+        ['slots'] = (32),
     },
     -- -- Boats
     -- ['squalo'] = {
