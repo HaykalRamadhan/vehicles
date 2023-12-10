@@ -4598,9 +4598,7 @@ QBShared.Vehicles = {
         ['hash'] = `mule`,
         ['shop'] = 'truck',
         ['maxweight'] = (1000000),
-        ['slots'] = 30,
-        -- ['maxweight'] = (32),
-        -- ['slots'] = (32),
+        ['slots'] = (32),
     },
     ['mule2'] = {
         ['name'] = 'Mule with Drop Door',
